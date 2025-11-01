@@ -13,18 +13,6 @@
 
 ---
 
-### 🚧 Current Projects
-1. [freeCodeCamp Certifications](https://github.com/clutchwtn/freecodecamp) *(In progress - will upload solutions here!)*  
-2. [C Learning Repo](https://github.com/clutchwtn/c-learning) *(Simple programs & uni assignments)*  
-
----
-
-### 🎯 2025 Goals
-- [ ] Complete freeCodeCamp's **Responsive Web Design** cert  
-- [ ] Build a personal website  
-- [ ] Contribute to an **open-source** project  
-- [ ] Learn Arduino/ESP32 basics  
-
 ---
 
 📫 **Let's connect:**  

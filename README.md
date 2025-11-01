@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jalel (@clutchwtn)
 
-🌱 **Second-Year Computer Engineering Student** | [Faculté des Sciences de Tunis](https://www.fst.utm.tn/)  
+🌱 **Second-Year Computer Engineering Student** | [Faculté des Sciences de Tunis](https://fst.rnu.tn)  
 💻 **Currently grinding:**  
 - `Java` programming
 

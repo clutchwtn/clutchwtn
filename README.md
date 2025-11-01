@@ -1,10 +1,8 @@
 # 👋 Hey, I'm Jalel (@clutchwtn)
 
-🌱 **First-Year Computer Engineering Student** | [Faculté des Sciences de Tunis](https://www.fst.utm.tn/)  
+🌱 **Second-Year Computer Engineering Student** | [Faculté des Sciences de Tunis](https://www.fst.utm.tn/)  
 💻 **Currently grinding:**  
-- `C` programming
-- Linux basics (`bash`, file systems)  
-- [freeCodeCamp](https://www.freecodecamp.org/) Web Dev track  
+- `Java` programming
 
 🛠️ **Tech I'm comfortable with:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

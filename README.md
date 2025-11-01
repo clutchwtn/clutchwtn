@@ -13,7 +13,5 @@
 
 ---
 
----
-
 📫 **Let's connect:**  
 [![Gmail](https://img.shields.io/badge/jalel.fayache@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jalel.fayache@gmail.com)

@@ -1,15 +1,18 @@
-# 👋 Hey, I'm Jalel (@clutchwtn)
+# Jalel Fayache
 
-🌱 **Second-Year Computer Engineering Student** | [Faculté des Sciences de Tunis](https://fst.rnu.tn)  
-💻 **Currently grinding:**  
-- `Java` programming
+Computer engineering student at the Faculty of Sciences of Tunis (FST), specializing in embedded systems and IoT. I'm looking for a final-year internship (PFE) in embedded systems or IoT.
 
-🛠️ **Tech I'm comfortable with:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+## Skills
 
----
+- Languages: C, Python, Java, PHP, SQL, JavaScript
+- Embedded: ESP32, STM32, RFID
+- Tools: Linux, Git, Docker, MySQL
 
-📫 **Let's connect:**  
-[![Gmail](https://img.shields.io/badge/jalel.fayache@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jalel.fayache@gmail.com)
+## Project
+
+- UniSmartPay : campus payment system using RFID cards and barcodes. An ESP32 terminal sends payment requests to a PHP API backed by MySQL. Team project; I worked on ESP32 sketch.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/jalel-fayache-78a40941b/
+Email: jalel.fayache@gmail.com

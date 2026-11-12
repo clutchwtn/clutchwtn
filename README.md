@@ -11,12 +11,12 @@ Third-year Computer Engineering student at the Faculté des Sciences de Tunis (F
 A team project that lets students pay at the university restaurant and cafeteria with their student card. [Demo video](https://youtu.be/cDfxOyyTLME)
 
 - I designed the concept and overall architecture: an RFID terminal, a web platform with admin, student and terminal roles, and a PHP/MySQL backend.
-- I built the ESP32 firmware in C++ with AI tools: it reads card UIDs from an RC522 reader over SPI, checks the card with the server, and sends payment requests as JSON over HTTP with a per-terminal token.
+- I built the ESP32 firmware in C++ (AI-assisted) and debugged it on the real hardware: it reads card UIDs from an RC522 reader over SPI, checks the card with the server, and sends payment requests as JSON over HTTP with a per-terminal token.
 - Two terminal modes (fixed-price restaurant ticket, cafeteria order built by scanning barcodes), LED feedback, a double-scan cooldown, and remote logging to a web serial monitor.
 
 ### [iwlwifi-5ghz-ap](https://github.com/clutchwtn/iwlwifi-5ghz-ap): 5 GHz hotspot on Intel Wi-Fi under Linux
 
-A 14-line patch to the Linux `iwlwifi` driver so an Intel card can run a 5 GHz hotspot on channels 36-48 while staying connected to Wi-Fi, as Windows allows. I built it with AI tools and tested it on my own hardware. It lifts the "no IR" restriction only on channels the firmware itself marks as usable next to a station link, and never on radar (DFS) channels. Build and install scripts load the patched module alongside the stock one. Tested on an Intel AX211.
+A 14-line patch to the Linux `iwlwifi` driver so an Intel card can run a 5 GHz hotspot on channels 36-48 while staying connected to Wi-Fi, as Windows allows. It lifts the "no IR" restriction only on channels the firmware itself marks as usable next to a station link, and never on radar (DFS) channels. Build and install scripts load the patched module alongside the stock one. I tested and debugged it on my own laptop's Intel AX211 (AI-assisted coding).
 
 ## What I work with
 
